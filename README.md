@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### 일단 하고 보는 개발자 nnindd
+
 <!--
 **nnindd/nnindd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
