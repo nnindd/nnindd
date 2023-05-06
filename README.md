@@ -19,7 +19,7 @@ Hi, there 😊
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>
 </div>
 
-<h4 align="center">🤹‍♀️ Frontend</h4>
+<h4 align="center">💎 Frontend</h4>
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
