@@ -58,7 +58,7 @@ Hi, there 😊
 <h2 align="center">📊 etc</h2>
 <div align="center">
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=nnindd&theme=transparent&show_icons=true"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=nnindd&&show_icons=true&theme=transparent"/>
     </div>
     <div>
         <a href="https://solved.ac/joo7ya"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joo7ya" /></a> 
