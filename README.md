@@ -8,6 +8,12 @@ Hi, there 😊
 <p align="center">
 좋아하는 것을 잘하고 싶은, 욕심 많은 개발자 민동주입니다.
 </p>
+<p align="center">
+항상 “왜?”를 생각하며 더 좋은 방법을 고민합니다.
+</p>
+<p align="center">
+밝고 긍정적인 태도로 협업에 임합니다.
+</p>
 <br/>
 
 <h2 align="center">🛠 Tech Stack</h2>
@@ -23,6 +29,7 @@ Hi, there 😊
 <div align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
   <img src="http://img.shields.io/badge/-NextJS-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
 </div>
