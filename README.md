@@ -16,6 +16,13 @@ Hi, there 😊
 </p>
 <br/>
 
+<h2 align="center">✒ Contact </h2>
+<h4 align="center">Email | ods1room@gmail.com</h4>
+<h4 align="center">포트폴리오 | <a href="https://nnindd.notion.site/8a910ef6f51043f2847f687b1f80c801?pvs=4">노션 바로가기</a></h4>
+<h4 align="center">Blog | <a href="https://nnindd.tistory.com">https://nnindd.tistory.com/</a></h4>
+
+<br/>
+
 <h2 align="center">🛠 Tech Stack</h2>
 
 <h4 align="center">🤖 Backend</h4>
@@ -56,20 +63,3 @@ Hi, there 😊
 
 <br/>
 
-<h2 align="center">✒ Contact </h2>
-<h4 align="center">Email | ods1room@gmail.com</h4>
-<h4 align="center">Blog | <a href="https://nnindd.tistory.com">https://nnindd.tistory.com/</a></h4>
-
-<br/>
-	
-<h2 align="center">📊 etc</h2>
-<div align="center">
-    <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=nnindd&&show_icons=true&theme=transparent"/>
-    </div>
-    <div>
-        <a href="https://solved.ac/joo7ya"><img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=joo7ya" /></a> 
-    </div>
-</div>
-
-<br/>
