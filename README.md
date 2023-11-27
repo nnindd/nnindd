@@ -18,7 +18,7 @@ Hi, there 😊
 
 <h2 align="center">✒ Contact </h2>
 <h4 align="center">Email | ods1room@gmail.com</h4>
-<h4 align="center">포트폴리오 | <a href="https://nnindd.notion.site/8a910ef6f51043f2847f687b1f80c801?pvs=4">노션 바로가기</a></h4>
+<h4 align="center">포트폴리오 | <a href="https://nnindd.notion.site/8a910ef6f51043f2847f687b1f80c801?pvs=4" target="_blank">노션 바로가기</a></h4>
 <h4 align="center">Blog | <a href="https://nnindd.tistory.com">https://nnindd.tistory.com/</a></h4>
 
 <br/>
